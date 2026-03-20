@@ -10,7 +10,7 @@ from IPython.display import display
 #* 1.Wstępne przetwarzanie i czyszczenie danych (Data Cleaning & Preprocessing)
 #* Cel: Uniknięcie błędów w dalszych etapach
 #! ==================================================
-
+#
 #region 1.1 Wczytanie danych oraz ukazanie podstawowych informacji
 #* Cel: Ustalenie z jakimi danymy mamy do czynienia i podjęcie odpowiedniej akcji
 
